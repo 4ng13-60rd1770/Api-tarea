@@ -12,3 +12,4 @@ export const showData = async (arrayDatos, listarHTML ) => {
         `
     })
 }
+
